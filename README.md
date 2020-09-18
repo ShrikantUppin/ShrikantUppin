@@ -7,3 +7,14 @@ Whenever i came up across with analysis of data, i searched for -what exactly ma
 
 Now, I am looking for a full-time role in Data Science, Machine Learning or related field.
 
+
+## What i am with:
+
+Languages: Python, R, SQL, HTML, CSS, JavaScript, 
+
+Framework: Django, Flask, Bootstrap.
+
+Libraries & Tools: (Basic & Advanced python most required libraries), NumPy, Pandas, Scikit-Learn, SciPy, Matplotlib, PyTorch, Keras.
+
+Data Analysis: Exploratory Data Analysis, Natural Language Processing, Image Processing, Ensemble Methods, Strong Statistical Foundation, Model Development & Evaluation Metrics, Data Wrangling, Data Visualization, Data Warehousing, Quantitative Methods.
+
