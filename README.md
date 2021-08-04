@@ -1,6 +1,6 @@
 ## Hi there 👋🏻
 
-I am currently working as a Technical Engineer (Data Science | Data Analysis) at <strong>[Nalco Water an ECOLAB Company](https://www.ecolab.com/nalco-water){:target="_blank" rel="noopener"}</strong>. I come with an extensive experience of working with different technologies including Data Science, Machine Learning and Deep Learning, Data Analysis
+I am currently working as a Technical Engineer (Data Science | Data Analysis) at <a href="https://www.ecolab.com/nalco-water" target="_blank">Nalco Water an ECOLAB Company</a>. I come with an extensive experience of working with different technologies including Data Science, Machine Learning and Deep Learning, Data Analysis
 
 In the past, I have worked with ExcelR Solutions and The Sparks Foundation as a Data Science Intern. I have also worked in mechanical industry as NPD Engineer, QA Engineer.
 
