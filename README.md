@@ -1,12 +1,8 @@
 ## Hi there 👋🏻
-I’m a Mechanical Engineering graduate of 2016 batch. I come with an extensive learning  with different technologies including Python, Data Science, Machine Learning and Deep Learning.
 
-Changing path from Mechanical field to Software field it is quite challenging. But i have potential to do tough & new things. I worked in core mechanical field for 3.4 years in various dept.- NPD, PPC, QA etc. The big thing what i have achieved there is to give dedication to your work, learning new things & most important is, 'doing' all things in best way.
+I am currently working as a Technical Engineer (Data Science | Data Analysis) at Nalco Water an ECOLAB Company. I come with an extensive experience of working with different technologies including Data Science, Machine Learning and Deep Learning, Data Analysis
 
-Whenever i came up across with analysis of data, i searched for -what exactly market is dealing with data. And this is reason which moves me towards executing maths in machine!!! 
-
-Now, I am looking for a full-time role in Data Science, Machine Learning or related field.
-
+In the past, I have worked with ExcelR Solutions and The Sparks Foundation as a Data Science Intern. I have also worked in mechanical industry as NPD Engineer, QA Engineer.
 
 ## What i am with:
 
