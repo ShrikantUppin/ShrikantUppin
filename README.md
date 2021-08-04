@@ -21,4 +21,4 @@ In the past, I have worked with ExcelR Solutions and The Sparks Foundation as a 
 
 ## How to reach Me:
 
-[<img src="https://github.com/ShrikantUppin/Images/blob/main/wp.jpg" width=50 height=50>](https://api.whatsapp.com/send/?phone=919970352464&text&app_absent=0)   &nbsp; &nbsp; [<img src="https://github.com/ShrikantUppin/Images/blob/main/linkdin.png" width=40 height=50>](https://www.linkedin.com/in/shrikantuppin/)
+[<img src="https://github.com/ShrikantUppin/Images/blob/main/wp.jpg" width=50 height=50>](https://api.whatsapp.com/send/?phone=919970352464&text&app_absent=0)   &nbsp; &nbsp; [<img src="https://github.com/ShrikantUppin/Images/blob/main/linkdin.png" width=50 height=50>](https://www.linkedin.com/in/shrikantuppin/)
