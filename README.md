@@ -1,16 +1,20 @@
 ## Hi there 👋🏻
 
-I am currently working as a Technical Engineer (Data Science | Data Analysis) at <a href="https://www.ecolab.com/nalco-water" target="_blank"><stron>Nalco Water an ECOLAB Company</strong></a>. I come with an extensive experience of working with different technologies including Data Science, Machine Learning and Deep Learning, Data Analysis
+I am currently working as a Technical Engineer (Data Science | Data Analysis) at <a href="https://www.ecolab.com/nalco-water" target="_blank"><strong>Nalco Water an ECOLAB Company</strong></a>. I come with an extensive experience of working with different technologies including Data Science, Machine Learning and Deep Learning, Data Analysis
 
 In the past, I have worked with ExcelR Solutions and The Sparks Foundation as a Data Science Intern. I have also worked in mechanical industry as NPD Engineer, QA Engineer.
 
 ## What i am with:
 
-Languages: Python, R, SQL, HTML, CSS, JavaScript, 
+<strong>Languages:</strong>Python, R, SQL, HTML, CSS, JavaScript, 
 
-Basic working with Frameworks like: Django, Bootstrap.
+<strong>Frameworks :</strong>Django, Bootstrap, Streamlit
 
-Libraries & Tools: (Basic & Advanced python most required libraries), NumPy, Pandas, Scikit-Learn, SciPy, Matplotlib etc.
+<strong>Libraries & Tools:</strong>NumPy, Pandas, Scikit-Learn, SciPy, Matplotlib, Seaborn, Pycaret, Azure Data Explorer, SQL Server, Snowflake Cloud
 
-IDEs used: PyCharm, Spyder, Jupyter Notebook, Atom etc.
+<strong>Data Analysis:</strong>Excel, Power Bi, Python, Exploratory Data Analysis
+
+<strong>Machine Learning:</strong>Linear Regresssion, Logistic Regression, Random Forest, Decision Tree, XGBoost etc.
+
+<strong>IDEs used:</strong>PyCharm, Spyder, Jupyter Notebook, Atom etc.
 
