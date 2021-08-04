@@ -6,15 +6,15 @@ In the past, I have worked with ExcelR Solutions and The Sparks Foundation as a 
 
 ## What i am with:
 
-<strong>Languages:</strong>Python, R, SQL, HTML, CSS, JavaScript, 
+<strong>Languages:</strong> Python, R, SQL, HTML, CSS, JavaScript, 
 
-<strong>Frameworks :</strong>Django, Bootstrap, Streamlit
+<strong>Frameworks :</strong> Django, Bootstrap, Streamlit
 
-<strong>Libraries & Tools:</strong>NumPy, Pandas, Scikit-Learn, SciPy, Matplotlib, Seaborn, Pycaret, Azure Data Explorer, SQL Server, Snowflake Cloud
+<strong>Libraries & Tools: </strong>NumPy, Pandas, Scikit-Learn, SciPy, Matplotlib, Seaborn, Pycaret, Azure Data Explorer, SQL Server, Snowflake Cloud
 
-<strong>Data Analysis:</strong>Excel, Power Bi, Python, Exploratory Data Analysis
+<strong>Data Analysis:</strong> Excel, Power Bi, Python, Exploratory Data Analysis
 
-<strong>Machine Learning:</strong>Linear Regresssion, Logistic Regression, Random Forest, Decision Tree, XGBoost etc.
+<strong>Machine Learning:</strong> Linear Regresssion, Logistic Regression, Random Forest, Decision Tree, XGBoost etc.
 
-<strong>IDEs used:</strong>PyCharm, Spyder, Jupyter Notebook, Atom etc.
+<strong>IDEs used:</strong> PyCharm, Spyder, Jupyter Notebook, Atom etc.
 
