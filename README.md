@@ -21,4 +21,4 @@ In the past, I have worked with ExcelR Solutions and The Sparks Foundation as a 
 
 ## How to reach Me:
 
-[<img src="https://selsdonprimary.com/2019/11/11/keeping-your-child-safe-when-using-whatsapp/">](https://api.whatsapp.com/send/?phone=919970352464&text&app_absent=0)
+[<img src="https://github.com/ShrikantUppin/Images/blob/main/wp.jpg">](https://api.whatsapp.com/send/?phone=919970352464&text&app_absent=0)
